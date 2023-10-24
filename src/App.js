@@ -9,7 +9,7 @@ import Contact from "./components/ContactMe/contact"
 function App() {
   return (
     <div className="App">
-      {/* <Navbar/> */}
+      <Navbar/>
       <Home/>
       <About/>
       <Services/>
