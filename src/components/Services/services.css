@@ -1,0 +1,173 @@
+.service-head {
+    background: #31065A;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    cursor: context-menu;
+}
+@media screen and (width<400px) {
+    .service-head{
+        flex-direction: column-reverse;
+        height: 100%;
+    }
+    .service-body{
+        flex-direction: column !important;
+        padding-top: 20px !important;
+        align-items: center;
+        gap: 20px;
+    }
+    .service-items{
+        width: 90% !important;
+    }
+    .service-items>.service-pic{
+        width: 80% !important;
+        font-weight: 450 !important;
+    }
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 20px;
+    height: 100px;
+
+
+}
+
+.service-line {
+    color: white;
+}
+
+
+.service-my {
+    color: white;
+    font-size: 40px;
+    font-family: Exo 2;
+    font-weight: 600;
+    padding-top: 40px;
+    border-bottom: 2px solid white;
+}
+
+
+.service-services {
+    color: #F86F03;
+    font-size: 40px;
+    font-family: Exo 2;
+    font-weight: 600;
+    padding-top: 40px;
+    border-bottom: 2px solid white;
+}
+
+.service-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: left;
+    padding-top: 70px;
+
+}
+
+.service-web {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    background: white;
+
+}
+
+.services-pic1 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.web-name {
+    color: #170550;
+    font-size: 25px;
+    font-family: Exo 2;
+    font-weight: 700;
+}
+
+.web-theory {
+    color: #170550;
+    font-size: 18px;
+    font-family: Exo 2;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.service-app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    background: white;
+}
+
+.services-pic2 {
+    width: 100px;
+    height: 100px;
+}
+
+.app-name {
+    color: #170550;
+    font-size: 25px;
+    font-family: Exo 2;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.app-theory {
+    color: #170550;
+    font-size: 18px;
+    font-family: Exo 2;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+
+.service-digital {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    background: white;
+}
+
+.services-pic3 {
+    width: 100px;
+    height: 100px;
+}
+
+.digital-name {
+    color: #170550;
+    font-size: 25px;
+    font-family: Exo 2;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.digital-theory {
+    color: #170550;
+    font-size: 18px;
+    font-family: Exo 2;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.service-items {
+    width: 400px;
+    /* padding: 150px 10px; */
+    height: 500px;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.service-pic {
+    margin-top: 2rem;
+    padding: 2px 2.5rem;
+    text-align: justify;
+}
