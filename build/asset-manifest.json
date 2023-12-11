@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.055fa190.css",
+    "main.js": "/static/js/main.682cde90.js",
+    "static/media/Banner Image.png": "/static/media/Banner Image.fe58b0fb4ecb4cad2188.png",
+    "static/media/mypic.png": "/static/media/mypic.5441e0f9366b07b43f04.png",
+    "static/media/Rectangle 22.png": "/static/media/Rectangle 22.d34ac9666e622fe94be9.png",
+    "static/media/Rectangle 24.png": "/static/media/Rectangle 24.b02d9a736e1fe758cc45.png",
+    "static/media/Rectangle 23.png": "/static/media/Rectangle 23.436fd93853121b51061c.png",
+    "static/media/Rectangle 25.png": "/static/media/Rectangle 25.b6632131f0e2f510b8c3.png",
+    "static/media/Rectangle 27.png": "/static/media/Rectangle 27.b6632131f0e2f510b8c3.png",
+    "static/media/Rectangle 20.png": "/static/media/Rectangle 20.4584ea333e0a1ea188ce.png",
+    "static/media/Rectangle 26.png": "/static/media/Rectangle 26.4584ea333e0a1ea188ce.png",
+    "index.html": "/index.html",
+    "main.055fa190.css.map": "/static/css/main.055fa190.css.map",
+    "main.682cde90.js.map": "/static/js/main.682cde90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.055fa190.css",
+    "static/js/main.682cde90.js"
+  ]
+}
