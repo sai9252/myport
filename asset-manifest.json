@@ -1,22 +1,18 @@
 {
   "files": {
-    "main.css": "/myport/static/css/main.055fa190.css",
-    "main.js": "/myport/static/js/main.88f9c41c.js",
+    "main.css": "/myport/static/css/main.c59ce995.css",
+    "main.js": "/myport/static/js/main.d3ca3d29.js",
     "static/media/Banner Image.png": "/myport/static/media/Banner Image.fe58b0fb4ecb4cad2188.png",
-    "static/media/mypic.png": "/myport/static/media/mypic.5441e0f9366b07b43f04.png",
+    "static/media/mypic.png": "/myport/static/media/mypic.389fe82b73cfae43e332.png",
     "static/media/Rectangle 22.png": "/myport/static/media/Rectangle 22.d34ac9666e622fe94be9.png",
-    "static/media/Rectangle 24.png": "/myport/static/media/Rectangle 24.b02d9a736e1fe758cc45.png",
     "static/media/Rectangle 23.png": "/myport/static/media/Rectangle 23.436fd93853121b51061c.png",
-    "static/media/Rectangle 25.png": "/myport/static/media/Rectangle 25.b6632131f0e2f510b8c3.png",
-    "static/media/Rectangle 27.png": "/myport/static/media/Rectangle 27.b6632131f0e2f510b8c3.png",
     "static/media/Rectangle 20.png": "/myport/static/media/Rectangle 20.4584ea333e0a1ea188ce.png",
-    "static/media/Rectangle 26.png": "/myport/static/media/Rectangle 26.4584ea333e0a1ea188ce.png",
     "index.html": "/myport/index.html",
-    "main.055fa190.css.map": "/myport/static/css/main.055fa190.css.map",
-    "main.88f9c41c.js.map": "/myport/static/js/main.88f9c41c.js.map"
+    "main.c59ce995.css.map": "/myport/static/css/main.c59ce995.css.map",
+    "main.d3ca3d29.js.map": "/myport/static/js/main.d3ca3d29.js.map"
   },
   "entrypoints": [
-    "static/css/main.055fa190.css",
-    "static/js/main.88f9c41c.js"
+    "static/css/main.c59ce995.css",
+    "static/js/main.d3ca3d29.js"
   ]
 }
