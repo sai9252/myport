@@ -1,5 +1,5 @@
 import React from "react";
-import pic from "../Images/logo.png"
+// import pic from "../Images/logo.png"
 import "./navbar.css";
 
 
@@ -8,7 +8,6 @@ function Navbar() {
     return (
             <div className="topnav">
                 <div class="topnav-image">       
-                <img className="topnav-pic" src={ pic} alt="Logo" />
                 </div>
 
                 <div class="topnav-items">   

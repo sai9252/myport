@@ -16,10 +16,10 @@ const Contact = () => {
                         <div className='contact-call'>
                             <img src={pic1} alt='pic1' />
                         </div>
-                        <div className="conatact-s">
-                        <div className='contact-mess1'>+987654321 </div>
-                        <div className='contact-mess2'>+9112345678</div>
-                    </div>
+                        {/* <div className="conatact-s"> */}
+                        <div className='contact-mess1'>+91 7569764379 </div>
+                        {/* <div className='contact-mess2'></div> */}
+                    {/* </div> */}
                     </div>
                     <div className='contact-info1'>
                         <div className='conatct-mess'>
@@ -56,9 +56,6 @@ const Contact = () => {
                     <button className='contact-button'>Send</button>
                 </div>
             </div>
-            </div>
-            <div className='footer'>
-                <div className='footer-text'>Copywrite & Copy : 2023 | All Right Reserved by RIEAD</div>
             </div>
         </div>
     )

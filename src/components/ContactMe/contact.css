@@ -88,24 +88,27 @@
 }
 
 .contact-mess1 {
-    color: white;
-    font-size: 20px;
-    font-family: Exo 2;
-    font-weight: 600;
-    padding-left: 50px;
-}
-.contact-mess2{
-    color: white;
-    font-size: 20px;
-    font-family: Exo 2;
-    font-weight: 600;
-    padding-left: 50px;
-}
-
-.contact-s{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: Exo 2;
+    font-weight: 600;
+    padding-left: 40px;
 }
+/* .contact-mess2{
+    color: white;
+    font-size: 20px;
+    font-family: Exo 2;
+    font-weight: 600;
+    padding-left: 50px;
+} */
+
+/* .contact-s{
+    display: flex;
+    align-items: center;
+} */
 
 .contact-details{
     width: 40%;
