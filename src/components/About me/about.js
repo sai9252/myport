@@ -11,7 +11,7 @@ function About() {
         </div>
         <div className="about-body">
             <div className="about-img">
-               <img className='about-pic' src={ pic} alt='pic'></img>
+                <img className='about-pic' src={ pic} alt='pic'></img>
             </div>
             <div className="about-info">
                 <div className="about-skill">

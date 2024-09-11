@@ -31,7 +31,7 @@ const Contact = () => {
                         <div className='contact-chat'>
                             <img src={pic3} alt='pic3' />
                         </div>
-                        <div className='contact-mess1'>Boyanapudi , VK.Rayapuram , KKD</div>
+                        <div className='contact-mess1'>Hyderabad ,India.</div>
                     </div>
                 </div>
                 <div className='contact-details1'>

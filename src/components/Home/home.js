@@ -29,7 +29,7 @@ function Home() {
                     <a href="https://www.linkedin.com/in/viswash-sri-sai-nanda-kishore-m-9434b522a" target="_blank" rel="noreferrer"><img className="home-pic" src={LOGO3} alt="logo"></img></a>
                 </div>
                 <div className="home-download">
-                    <a href="Resume nrml.pdf" download={true} ><h3 className="home-h3">Download Resume</h3></a>
+                    <a href="https://docs.google.com/document/d/17qGrmR8hlsEsysGtyocIn1YW5p53tp0ShS7qXudo8MI/edit?usp=sharing" target="_blank" download={true} ><h3 className="home-h3">Download Resume</h3></a>
                 </div>
             </div>
             <div className="home-image1">
